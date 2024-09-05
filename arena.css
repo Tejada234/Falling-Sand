@@ -1,0 +1,8 @@
+td {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+}
+table, th, td {
+    background-color: black;
+  }
